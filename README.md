@@ -25,5 +25,5 @@
     Network configuration
       lxc.cgroup2.memory.max = 256M 
 13) Повторяем последовательно шаги 5,6,8 (память ограничена 256Мб)
-![L2_1](https://github.com/PavelE13/ConteinL2/assets/94640966/fc6efc4d-11ee-4b07-a25d-300f04ec0576)
+
 ![L2_2](https://github.com/PavelE13/ConteinL2/assets/94640966/484f1966-110a-436b-9135-12b10bfa74cc)
